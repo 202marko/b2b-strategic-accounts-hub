@@ -1,4 +1,4 @@
-# B2B Strategic Accounts Hub 🚀
+# B2B Strategic Accounts Hub 
 
 Bienvenido al **B2B Strategic Accounts Hub**, un repositorio centralizado diseñado para documentar metodologías, herramientas visuales y estrategias de alto impacto en el ecosistema de ventas corporativas. 
 
